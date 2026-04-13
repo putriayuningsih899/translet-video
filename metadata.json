@@ -1,0 +1,5 @@
+{
+  "name": "LingoVideo Translator",
+  "description": "Translate Indonesian video audio into multiple languages with AI-powered transcription and voice synthesis.",
+  "requestFramePermissions": ["microphone"]
+}
